@@ -1,7 +1,7 @@
 body {
   padding: 20px;
 }
-body > a {
+a {
   background-color: #3f3f3f;
   color: #fff;
   padding: 15px 10px;
@@ -11,7 +11,7 @@ body > a {
   cursor: pointer;
 }
 
-body > a:hover {
+a:hover {
   background-color: #686868;
   color: #ebebeb;
 }
