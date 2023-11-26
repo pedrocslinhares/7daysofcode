@@ -2,7 +2,7 @@
 2 Desafios para aula de PadrõesWeb da faculdade Senac
 
 - Lógica de Programação
-- CRUD (https://pedrocslinhares.github.io/7daysofcode/crud)
+- <a href="https://pedrocslinhares.github.io/7daysofcode/crud">CRUD</a>
 
 ### Alunos Participantes
 
