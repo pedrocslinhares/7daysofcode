@@ -1,3 +1,20 @@
+body {
+  padding: 20px;
+}
+body > a {
+  background-color: #3f3f3f;
+  color: #fff;
+  padding: 15px 10px;
+  margin: 0 0 25px 0;
+  border-radius: 10px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+body > a:hover {
+  background-color: #686868;
+  color: #ebebeb;
+}
 form {
   display: flex;
   flex-direction: column;
