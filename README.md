@@ -1,7 +1,7 @@
 # 7daysofcode
 2 Desafios para aula de PadrõesWeb da faculdade Senac
 
-- Lógica de Programação
+- <a href="https://pedrocslinhares.github.io/7daysofcode/logica">LÓGICA DE PROGRAMAÇÃO</a>
 - <a href="https://pedrocslinhares.github.io/7daysofcode/crud">CRUD</a>
 
 ### Alunos Participantes
