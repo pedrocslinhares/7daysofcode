@@ -4,6 +4,10 @@
 - <a href="https://pedrocslinhares.github.io/7daysofcode/logica">LÓGICA DE PROGRAMAÇÃO</a>
 - <a href="https://pedrocslinhares.github.io/7daysofcode/crud">CRUD</a>
 
+## Funcionando noo githubPages
+
+- <a href="https://pedrocslinhares.github.io/7daysofcode/">Ativo no GithubPages</a>
+
 ### Alunos Participantes
 
 - Kevin Souza Magalhães
