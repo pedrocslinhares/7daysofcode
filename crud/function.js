@@ -62,7 +62,7 @@ function excluirPessoa(nome) {
   }
 }
 
-// Agora, vamos adicionar botões na tabela para editar e excluir pessoas
+// Botões na tabela para editar e excluir pessoas
 function criarBotoesEditarExcluir() {
   const tabela = document.getElementById("people-table-body");
 
@@ -135,11 +135,11 @@ function validarForm() {
 
 // Modificar a chamada para adicionarPessoa() dentro do evento de submit para incluir a atualização da tabela
 document.querySelector(".js-form").addEventListener("submit", function (event) {
-  event.preventDefault(); // Impede o envio padrão do formulário
+  event.preventDefault(); 
   if (validarForm()) {
     adicionarPessoa();
   }
 });
 
-// Inicializar a tabela com dados existentes (se houver)
+// Inicializa a tabela com dados existentes
 atualizarTabela();
