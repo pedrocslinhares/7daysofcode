@@ -1,0 +1,54 @@
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 25px;
+}
+
+label {
+  margin-right: 15px;
+}
+
+input {
+  width: 150px;
+  height: 25px;
+  border: 1px solid #3f3f3f;
+  border-radius: 10px;
+}
+
+button {
+  padding: 10px 25px;
+  border-radius: 15px;
+  max-width: 150px;
+  border: none;
+  background-color: #3f3f3f;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #686868;
+  color: #e6e6e6;
+}
+
+table thead th {
+  min-width: 100px;
+  padding: 10px 20px;
+  background-color: #3f3f3f;
+  color: #fff;
+  font-weight: 800;
+}
+
+table tbody tr {
+  min-width: 100px;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+table tbody tr .editar {
+  background-color: blue;
+}
+
+table tbody tr .excluir {
+  background-color: red;
+}
