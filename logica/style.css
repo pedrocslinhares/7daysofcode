@@ -1,0 +1,25 @@
+body {
+  padding: 20px;
+}
+.voltar {
+  background-color: #3f3f3f;
+  color: #fff;
+  padding: 15px 10px;
+  border-radius: 10px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.voltar:hover {
+  background-color: #686868;
+  color: #ebebeb;
+}
+
+h1 {
+  margin-top: 50px;
+}
+
+li {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 10px;
+}
