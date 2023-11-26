@@ -3,6 +3,6 @@
 
 ### Alunos Participantes
 
-- Kevin SOuza Magalhães
+- Kevin Souza Magalhães
 - Lucas Carvalho Alves
 - Pedro Cleberton dos Santos Linhares
